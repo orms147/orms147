@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orms147&label=Profile%20views&color=0e75b6&style=flat" alt="orms147" /> </p>
 
-- 🔭 I’m currently working on **Apartment management 🏠** [https://github.com/orms147/bluemoon_APT_gr29](https://github.com/orms147/bluemoon_APT_gr29)
-
 - 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 Join my discord server [https://discord.gg/JnejvCCv](https://discord.gg/JnejvCCv)
