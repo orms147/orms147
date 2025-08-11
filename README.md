@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bach</h1>
-<h3 align="center">I am currently a third-year student at Hanoi University of Science and Technology (HUST)</h3>
+<h3 align="center">I am currently a final-year student at Hanoi University of Science and Technology (HUST)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orms147&label=Profile%20views&color=0e75b6&style=flat" alt="orms147" /> </p>
 
