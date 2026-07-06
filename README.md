@@ -21,7 +21,7 @@ I'm a final-year student at **Hanoi University of Science & Technology (HUST)**,
 
 Alongside AI, I have hands-on experience in **blockchain / Web3** — smart contracts, decentralized apps and full-stack dApp development.
 
-- 🔭 &nbsp;Currently building **ML & recommendation systems** and studying **deep learning**
+- 🔭 &nbsp;Currently building **AI-powered apps** — real-time OCR + LLM translation, recommendation systems
 - 📊 &nbsp;Comfortable across the **data science workflow** — collection, cleaning, feature engineering, clustering, evaluation
 - ⛓️ &nbsp;Previously built **Solidity smart contracts** and full-stack **dApps**
 - 📫 &nbsp;Reach me at **orms147@gmail.com**
@@ -54,6 +54,15 @@ Alongside AI, I have hands-on experience in **blockchain / Web3** — smart cont
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
 
+**OCR · LLM · Desktop AI**
+
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
+![RapidOCR](https://img.shields.io/badge/PP--OCRv5_/_RapidOCR-0A9EDC?style=flat-square&logo=readthedocs&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_ASR-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6_(Qt)-41CD52?style=flat-square&logo=qt&logoColor=white)
+
 **Web & Mobile**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -84,8 +93,10 @@ Alongside AI, I have hands-on experience in **blockchain / Web3** — smart cont
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=orms147&show_icons=true&hide_border=true&title_color=4C9BE0&icon_color=4C9BE0&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orms147&layout=compact&hide_border=true&title_color=4C9BE0&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs" />
+<img width="100%" src="https://raw.githubusercontent.com/orms147/orms147/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+
+<img src="https://raw.githubusercontent.com/orms147/orms147/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+<img src="https://raw.githubusercontent.com/orms147/orms147/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
 
 </div>
 
@@ -111,7 +122,10 @@ Alongside AI, I have hands-on experience in **blockchain / Web3** — smart cont
 
 ### 🤖 AI & Machine Learning
 
-**[music-recommendation](https://github.com/orms147/music-recommendation)** — Intelligent music recommender built on Spotify metadata and *ISRC Cultural Intelligence*. Compares two content-based models with **K-Means & HDBSCAN** clustering and ships an interactive **Gradio** interface.
+**[TransSnip](https://github.com/orms147/transsnip)** — Hotkey-driven **screen-translation** app for Windows. Real-time **OCR** (PP-OCRv5 / RapidOCR on ONNX Runtime) feeds **multi-provider LLM translation** (Gemini · Claude · OpenRouter), with neural **text-to-speech**, a language-learning mode, and **Whisper ASR** to translate spoken audio that has no subtitles. 👉 [Live demo](https://orms147.github.io/transsnip-demo/)
+`Python` · `PySide6` · `RapidOCR / PP-OCRv5` · `ONNX Runtime` · `faster-whisper` · `edge-tts` · `Gemini / Claude / OpenRouter`
+
+**[music-recommendation](https://github.com/orms147/music-recommendation)** — Intelligent music recommender on Spotify metadata and *ISRC Cultural Intelligence*, comparing two content-based models with **K-Means & HDBSCAN** clustering behind a **Gradio** UI.
 `Python` · `scikit-learn` · `NumPy` · `Pandas` · `SciPy` · `Matplotlib` · `Seaborn`
 
 ### ⛓️ Blockchain & Web3
