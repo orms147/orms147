@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a final-year student at **Hanoi University of Science & Technology (HUST)**, now focused on **Artificial Intelligence, Machine Learning and Data Science**. I enjoy building models that turn messy, real-world data into useful recommendations and insight.
+I'm a final-year student at **Hanoi University of Science & Technology (HUST)**, now focused on **Artificial Intelligence, Machine Learning and Data Science**.
 
 Alongside AI, I have hands-on experience in **blockchain / Web3** — smart contracts, decentralized apps and full-stack dApp development.
 
